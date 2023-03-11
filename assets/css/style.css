@@ -158,7 +158,7 @@ nav {
     flex-flow: column nowrap;
     align-items: flex-start;
     justify-content: center;
-    background: #fff;
+    background: white;
     max-width: 18%;
     height: 100%;
     position: fixed;
